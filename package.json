@@ -3,14 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
     "@mui/base": "5.0.0-beta.64",
     "@mui/system": "6.1.10",
     "@emotion/react": "11.13.5",
     "@emotion/styled": "11.13.5",
-    "@types/react": "19.0.0",
-    "@types/react-dom": "19.0.1",
+    "@types/react": "18.0.0",
+    "@types/react-dom": "18.0.1",
     "typescript": "5.7.2"
   },
   "scripts": {
